@@ -73,8 +73,7 @@
         "lyricalmap.xml",
         "hugoballin.xml",
         "academyawards.xml",
-        "test.xml",
-        "doug-test.xml"
+        "test.xml"
       ]
    }
   , "markers" : {
