@@ -34,13 +34,16 @@
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
             <p>Article text goes here...</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Fabio vel iudice vincam, sunt in culpa qui officia. Phasellus laoreet lorem vel dolor tempus vehicula. Me non paenitet nullum festiviorem excogitasse ad hoc. Hi omnes lingua, institutis, legibus inter se differunt. Nihil hic munitissimus habendi senatus locus, nihil horum?</p>
+            <p>Sociis natoque penatibus et magnis dis parturient. Quae vero auctorem tractata ab fiducia dicuntur. A communi observantia non est recedendum.</p>
+            <p>Morbi odio eros, volutpat ut pharetra vitae, lobortis sed nibh. Integer legentibus erat a ante historiarum dapibus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Idque Caesaris facere voluntate liceret: sese habere. Fictum, deserunt mollit anim laborum astutumque! Ambitioni dedisse scripsisse iudicaretur.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Article title, Placename</placeName>
+            <placeName type="arts">This is Doug's Test Article</placeName>
             <geo><!--first longitude-->-118.39646649999997 <!--then lattitude-->34.0211224</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Brief description, quote, or summary here.</p>
          </note>
@@ -54,7 +57,7 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="../images/nameofimage.jpg"/>
+               <graphic url="../images/lyrical1.jpg"/>
                <head></head>
                <note type="attribution">Creator, date. Image courtesy of ...</note>
                <figDesc></figDesc>
